@@ -26,5 +26,7 @@ E. Acheampong, "Analyzing LinkedIn Content: A practical application of Data Scie
 
 M. Freeman, "Linkedin Post Exploratory Analysis," GitHub. [Online]. Available: https://github.com/mellamomark/linkedin-nlp-analysis/blob/master/linkedin_post_exploratory_analysis.ipynb.
 
+A. Zorn, F. Padilla Coo, T. Pallace, "The Most Valued Skills in the Job Market," DS 4002. [Online]. Available: https://github.com/ajzorn/DS4002Project1.
+
 M. Wang, "Data Says My $250k Bachelor’s Not Worth Crap," Medium. [Online]. Available: https://medium.com/@m3redithw/data-says-my-250k-bachelors-not-worth-crap-9ded34c48fa4.
 
